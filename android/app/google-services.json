@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756201607300",
+    "project_id": "prueba-propia-dab0c",
+    "storage_bucket": "prueba-propia-dab0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756201607300:android:cabd986348d71b3f8f72d1",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_propio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCTPBSwmHA3ko14YpS8dyhDY0GMMRaRtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
